@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Freelancing projects
 
-- 🌱 I’m currently learning **Front-End Development, ReactJS, VueJS, Unit Testing**
+- 🌱 I’m currently learning **Front-End Development, ReactJS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects, Tech Articles**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me [riyad.elberkawy@gmail.com](riyad.elberkawy@gmail.com)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/u/1/d/17WbmyhMGs-DHLzFYd3M52XKLJbmhhgfA/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/u/1/d/1GSDw416epeFmypa8WHAlb0QfbGhKy9a3/view)
 
 
 <h3 align="left">Connect with me:</h3>
