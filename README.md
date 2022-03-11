@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadelberkawy&label=Profile%20views&color=0e75b6&style=flat-square" alt="riyadelberkawy" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/riyadelberkawy" target="blank"><img src="https://img.shields.io/twitter/follow/riyadelberkawy?logo=twitter&style=for-the-badge" alt="riyadelberkawy" /></a> </p>
-
 - 🔭 I’m currently working on Freelancing projects
 
 - 🌱 I’m currently learning **Front-End Development, ReactJS**
