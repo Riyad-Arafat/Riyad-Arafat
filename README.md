@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadelberkawy&label=Profile%20views&color=0e75b6&style=flat-square" alt="riyadelberkawy" /> </p>
 
-- 🔭 I’m currently working on Freelancing projects
+- 🔭 I’m currently working at [Novu](https://getnovu.com/)
 
-- 🌱 I’m currently learning **Front-End Development, ReactJS**
+- 🌱 I’m currently learning **Front-End Development**
 
-- 👯 I’m looking to collaborate on **Open Source Projects, Tech Articles**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/riyadelberkawy?tab=repositories)
 
 - 📫 How to reach me [riyad.elberkawy@gmail.com](riyad.elberkawy@gmail.com)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/u/1/d/1GSDw416epeFmypa8WHAlb0QfbGhKy9a3/view)
+- 📄 Know about my experiences via my [resume](https://riyadelberkawy.notion.site/Riyad-76b285787d6447b88d5b4ff0aa1be647)
 
 
 <h3 align="left">Connect with me:</h3>
