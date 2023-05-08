@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Riyad</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadelberkawy&label=Profile%20views&color=0e75b6&style=flat-square" alt="riyadelberkawy" /> </p>
 
-- 🔭 I’m currently working at [Novu](https://getnovu.com/)
+- 🚀 I'm a **Software Engineer** with a passion for creating responsive and user-friendly web applications. I have experience with **JavaScript**, **TypeScript**, **Python**, **MySql**, **HTML**, **CSS**, **React**, and **Redux**, among other technologies.
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🔭 Currently, I'm working at  [Novu](https://getnovu.com/) as a Software Engineer, where I work on creating and maintaining their web applications.
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌱 I'm constantly learning and expanding my skillset in Web Development. I am currently focusing on **React**,**Next.js** and **Python (Flask)**.
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/riyadelberkawy?tab=repositories)
+- 👨‍💻 You can find my work on my [GitHub](https://github.com/riyadelberkawy?tab=repositories) profile. I am always looking for opportunities to collaborate on open source projects.
 
 - 📫 How to reach me [riyad.elberkawy@gmail.com](riyad.elberkawy@gmail.com)
 
-- 📄 Know about my experiences via my [resume](https://riyadelberkawy.notion.site/Riyad-76b285787d6447b88d5b4ff0aa1be647)
+- 📄 If you want to know more about my experience, you can check out my [resume](https://riyadstud.notion.site/Riyad-76b285787d6447b88d5b4ff0aa1be647)
 
 
 <h3 align="left">Connect with me:</h3>
