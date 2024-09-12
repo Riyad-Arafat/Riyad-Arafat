@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadelberkawy&label=Profile%20views&color=0e75b6&style=flat-square" alt="riyadelberkawy" /> </p>
 
-- 🚀 I'm a **Software Engineer** with a passion for creating responsive and user-friendly web applications. I have experience with **JavaScript**, **TypeScript**, **Python**, **MySql**, **HTML**, **CSS**, **React**, and **Redux**, among other technologies.
+- 🚀 I'm a **Software Engineer** with a passion for creating responsive and user-friendly web applications. I have experience with **JavaScript**, **TypeScript**, **Python**, **MySql**, **HTML**, **CSS**, **React**, **React-Native** and **Redux**, among other technologies.
 
-- 🔭 Currently, I'm working at  [Novu](https://getnovu.com/) as a Software Engineer, where I work on creating and maintaining their web applications.
+- 🔭 Currently, I'm working at  [Deemples](https://deemples.com/my) as a Software Engineer, where I work on creating and maintaining their products.
 
-- 🌱 I'm constantly learning and expanding my skillset in Web Development. I am currently focusing on **React**,**Next.js** and **Python (Flask)**.
+- 🌱 I'm constantly learning and expanding my skillset in Software Development.
 
 - 👨‍💻 You can find my work on my [GitHub](https://github.com/riyadelberkawy?tab=repositories) profile. I am always looking for opportunities to collaborate on open source projects.
 
@@ -20,9 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/riyadelberkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyadelberkawy" height="30" width="40" /></a> 
-<a href="https://linkedin.com/in/riyadelberkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyadelberkawy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riyadarafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyadelberkawy" height="30" width="40" /></a>
 <a href="https://fb.com/riyadelberkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riyadelberkawy" height="30" width="40" /></a>  
-<a href ="https://riyadelberkawy.tk/"> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href="https://instagram.com/riyadelberkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyadelberkawy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/riyad_elberkawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riyadelberkawy" height="30" width="40" /></a>
 <a href="https://dev.to/riyadelberkawy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="riyadelberkawy" height="30" width="40" /></a>
