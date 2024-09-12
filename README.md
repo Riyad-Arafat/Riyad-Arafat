@@ -54,9 +54,9 @@
 </p>
 
 <p align="center" >
-&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=riyadelberkawy&show_icons=true&theme=dark&locale=en" alt="riyadelberkawy" />
+&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=riyad-arafat&show_icons=true&theme=dark&locale=en" alt="riyad-arafat" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyadelberkawy&show_icons=true&theme=dark&locale=en&layout=compact" alt="riyadelberkawy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyad-arafat&show_icons=true&theme=dark&locale=en&layout=compact" alt="riyad-arafat" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyadelberkawy&theme=dark" alt="riyadelberkawy" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riyad-arafat&theme=dark" alt="riyad-arafat" />
 </p>
