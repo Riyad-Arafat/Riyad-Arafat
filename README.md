@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Riyad</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyadelberkawy&label=Profile%20views&color=0e75b6&style=flat-square" alt="riyad_arafat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riyad-arafat&label=Profile%20views&color=0e75b6&style=flat-square" alt="riyad_arafat" /> </p>
 
 - 🚀 I'm a **Software Engineer** with a passion for creating responsive and user-friendly web applications. I have experience with **JavaScript**, **TypeScript**, **Python**, **MySql**, **HTML**, **CSS**, **React**, **React-Native** and **Redux**, among other technologies.
 
