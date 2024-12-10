@@ -58,6 +58,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyad-arafat&show_icons=true&theme=dark&locale=en&layout=compact" alt="riyad-arafat" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=riyad-arafat&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=riyad-arafat&theme=dark" alt="GitHub Streak" />
 
 </p>
