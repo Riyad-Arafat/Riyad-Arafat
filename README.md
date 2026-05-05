@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 💻 Software Engineer with **3+ years of experience**
+- 💻 Software Engineer with **5+ years of experience**
 - 🧠 I build **software products end-to-end** (frontend, backend, systems)
 - 📈 Building a **stealth product used in real-world scenarios**
 - ⚡ Focused on **scalable systems, performance, and clean architecture**
