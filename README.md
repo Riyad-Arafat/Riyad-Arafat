@@ -11,9 +11,10 @@
 
 - 💻 Software Engineer with **3+ years of experience**
 - 🧠 I build **software products end-to-end** (frontend, backend, systems)
-- 📈 Currently building a stealth product used internally in real scenarios
+- 📈 Building a **stealth product used in real-world scenarios**
 - ⚡ Focused on **scalable systems, performance, and clean architecture**
-- 🎯 I prioritize **shipping real products** over writing code for the sake of it
+- 🎯 I optimize for **shipping and real impact**, not just code
+- ⚙️ Handling **real-world data, performance, and system complexity**
 
 ---
 
@@ -24,65 +25,61 @@
 - Python
 
 **Frontend**
-- React, Next.js
-- React Native
-- Flutter
+- React, Next.js, React Native, Flutter
 
 **Backend**
-- Node.js, Express, Nest.js
+- Node.js, Express, NestJS
 - REST APIs
 
 **Database**
-- MySQL
-- Postgres
+- PostgreSQL, MySQL
 
 **Tools**
-- Git, Postman, Cypress and more
+- Git, Postman, Cypress
 
 ---
 
 ### 🔥 Current Focus
 
 - Building a **production-ready system from scratch**
-- Solving **real business & operational problems**
+- Designing **scalable architecture**
+- Solving **real business problems**
 
 ---
 
 ### 📌 Mindset
 
 - Build fast. Iterate faster.  
-- Think in **systems, not features**  
-- Optimize for **impact, not complexity**
+- Systems > features  
+- Impact > complexity  
 
 ---
 
 ### 🌍 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/riyadarafat" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://twitter.com/riyadelberkawy" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://fb.com/riyadelberkawy" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/riyadarafat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x/_riyadArafat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" height="30" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  
 </p>
 
 ---
 
 ### 📫 Contact
 
-- 📧 riyad.arafat@outlook.com  
-- 📄 Resume: https://riyadstud.notion.site/Riyad-76b285787d6447b88d5b4ff0aa1be647
+<p align="center">
+<a href="mailto:riyad.arafat@outlook.com">Email</a> |
+<a href="https://riyadstud.notion.site/Riyad-76b285787d6447b88d5b4ff0aa1be647">Resume</a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riyad-arafat&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyad-arafat&layout=compact&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=riyad-arafat&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyad-arafat&show_icons=true&theme=tokyonight" />
 </p>
